@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+issueTrackerURL="https://github.com/Corosauce/weather2/issues"
+license="All Rights Reserved"
+
+[[mods]]
+modId="weather2"
+version="${file.jarVersion}"
+displayName="Weather2"
+logoFile="itcrowd.png"
+authors="Corosus"
+description='''
+
+'''
+
+[[dependencies.weather2]]
+modId="coroutil"
+mandatory=true
+versionRange="[1.18.1-1.2.37,)"
+ordering="NONE"
+side="BOTH"
